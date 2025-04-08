@@ -26,15 +26,15 @@ Currently, I'm developing an **AI-Powered Automated Incident Response System** u
 
 ##  Featured Projects
 
-- ** Automated Incident Response System**  
+- **Automated Incident Response System**  
   > Real-time threat detection using ML + automated mitigation using firewall rules + live dashboards (Streamlit)  
   Tech Stack: Python, CatBoost, XGBoost, Flask, Streamlit, AlienVault OTX
 
-- ** Malware Classification using CNN & GNN**  
+- **Malware Classification using CNN & GNN**  
   > AI-based classifier using control flow graphs of malware samples  
   Tech Stack: PyTorch, NetworkX, TensorFlow, PE Tools
 
-- ** DNS Cache Poisoning Detection Model**  
+- **DNS Cache Poisoning Detection Model**  
   > Supervised ML model detecting poisoned responses with 98% accuracy  
   Tech Stack: Scikit-learn, Pandas, Matplotlib
 
