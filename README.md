@@ -1,4 +1,4 @@
-# Hi, I'm Naveen Kumar Prabhulati
+# Hi, I'm Naveen Kumar Prabhuleti
 
 Master's Student in Cybersecurity Analytics & Operations  
 Penn State University | 📅 Graduating: May 2025  
