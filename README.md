@@ -34,6 +34,10 @@ Currently, I'm developing an **AI-Powered Automated Incident Response System** u
   > AI-based classifier using control flow graphs of malware samples  
   Tech Stack: PyTorch, NetworkX, TensorFlow, PE Tools
 
+- **Jenkins-Integrated Docker and OSS CVE Scanner**  
+  > Built a Python module using Trivy to scan Docker images and OSS in Jenkins, surfacing critical CVEs with HTML reports.
+  > Automated CI/CD vulnerability detection and reporting, reducing remediation time by 60% and embedding DevSecOps into pipeline.
+
 - **DNS Cache Poisoning Detection Model**  
   > Supervised ML model detecting poisoned responses with 98% accuracy  
   Tech Stack: Scikit-learn, Pandas, Matplotlib
